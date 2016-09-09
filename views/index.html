@@ -19,15 +19,17 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+
+  <body scroll="yes" style="overflow-x: hidden">
     <header>
       <h1>Video Heatmap</h1>
     </header>
     <main class="col-lg-12 container">
+
       <div>
         <img class="col-lg-12" id='mountHood' src="images/mountHoodResponsive.jpg" alt="" />
         <div>
-          <img class="ball" src="images/ball.png" alt="You are here!" />
+          <img class="ball fa fa-spin fa-fw" src="images/ball.png" alt="You are here!" />
         </div>
         <div class="imageCoordinates">
           <a href="" title="trailHead" style="position: absolute; left: 12.19%; top: 38.37%; width: 18.75%;  height: 33.33%; z-index: 2;"></a>
@@ -71,10 +73,9 @@
           <a href="" title="Summit" style="position: absolute; left: 60.1%; top: 6.7%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
         </div>
       </div>
-      <div class="video">
-        <video width="400" type='mp4' controls="" preload="metadata">
-          <source src="videos/rollerbabiesEvian.mp4">
-        </video>
+
+      <div class="videoWrapper">
+        <iframe class='video' width="560" height="349" src="https://www.youtube.com/embed/XQcVllWpwGs" frameborder="5"></iframe>
       </div>
 
       <div id='buttons'>
@@ -90,7 +91,6 @@
        <button type="btn" class="btn btn-primary" onclick="switchVideo(1);">Baby Me</button>
        <button type="btn" class="btn btn-primary" onclick="switchVideo(2);">Surfing Baby</button>
       </div>
-
 
     </main>
     <footer>
