@@ -8,6 +8,19 @@ a {
   color: #00B7FF;
 }
 
+.container  {
+  display: block;
+  position: relative;
+}
+
+.videoContainer {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 50%
+}
+
 header {
   display: block;
   position: absolute;
@@ -21,7 +34,7 @@ header {
 }
 
 main {
-  display: inline-block;
+  display: block;
   position: absolute;
   /*background: url('images/mountHood.jpg');*/
   max-width: 100%;
@@ -30,7 +43,7 @@ main {
 }
 
 #mountHood {
-  display: inline-block;
+  display: block;
   position: relative;
   /*top: 0;*/
   left: 0;
@@ -85,8 +98,7 @@ main {
 }
 
 #buttons  {
-  display: inline-block;
-  position: fixed;
+
 }
 
 button {
