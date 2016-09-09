@@ -19,6 +19,7 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
+
   <body scroll="yes" style="overflow-x: hidden">
     <header>
       <h1>Video Heatmap</h1>
@@ -75,6 +76,20 @@
 
       <div class="videoWrapper">
         <iframe class='video' width="560" height="349" src="https://www.youtube.com/embed/XQcVllWpwGs" frameborder="5"></iframe>
+      </div>
+
+      <div id='buttons'>
+       <button type="btn" class="btn btn-primary" onclick="getController().play()">Play Video</button>
+       <button type="btn" class="btn btn-primary" onclick="getController().pause()">Pause Video</button><br>
+       <button type="btn" class="btn btn-primary" onclick="getController().currentTime+=10">Advance 10 Seconds</button>
+       <button type="btn" class="btn btn-primary" onclick="getController().currentTime-=10">Rewind 10 Seconds</button>
+       <button type="btn" class="btn btn-primary" onclick="getController().playbackRate+=0.1">Increase Video Speed</button>
+       <button type="btn" class="btn btn-primary" onclick="getController().playbackRate-=0.1">Decrease Video Speed</button><br>
+       <button type="btn" class="btn btn-primary" onclick="getController().volume+=0.1">Increase Volume</button>
+       <button type="btn" class="btn btn-primary" onclick="getController().volume-=0.1">Decrease Volume</button>
+       <button type="btn" class="btn btn-primary" onclick="switchVideo(0);">Roller Babies</button>
+       <button type="btn" class="btn btn-primary" onclick="switchVideo(1);">Baby Me</button>
+       <button type="btn" class="btn btn-primary" onclick="switchVideo(2);">Surfing Baby</button>
       </div>
 
     </main>
