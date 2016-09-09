@@ -19,7 +19,7 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body scroll="no" style="overflow: hidden">
+  <body>
     <header>
       <h1>Video Heatmap</h1>
     </header>
@@ -71,12 +71,25 @@
           <a href="" title="Summit" style="position: absolute; left: 60.1%; top: 6.7%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
         </div>
       </div>
-      <div class="videoWrapper">
-        <iframe class='video' src="https://www.youtube.com/embed/XQcVllWpwGs" frameborder="5"></iframe>
+      <div class="video">
+        <video width="400" type='mp4' controls="" preload="metadata">
+          <source src="videos/rollerbabiesEvian.mp4">
+        </video>
       </div>
-      <!-- <div id="videoIframe">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/XQcVllWpwGs" frameborder="0" allowfullscreen></iframe>
-      </div> -->
+
+      <div id='buttons'>
+       <button type="btn" class="btn btn-primary" onclick="getController().play()">Play Video</button>
+       <button type="btn" class="btn btn-primary" onclick="getController().pause()">Pause Video</button><br>
+       <button type="btn" class="btn btn-primary" onclick="getController().currentTime+=10">Advance 10 Seconds</button>
+       <button type="btn" class="btn btn-primary" onclick="getController().currentTime-=10">Rewind 10 Seconds</button>
+       <button type="btn" class="btn btn-primary" onclick="getController().playbackRate+=0.1">Increase Video Speed</button>
+       <button type="btn" class="btn btn-primary" onclick="getController().playbackRate-=0.1">Decrease Video Speed</button><br>
+       <button type="btn" class="btn btn-primary" onclick="getController().volume+=0.1">Increase Volume</button>
+       <button type="btn" class="btn btn-primary" onclick="getController().volume-=0.1">Decrease Volume</button>
+       <button type="btn" class="btn btn-primary" onclick="switchVideo(0);">Roller Babies</button>
+       <button type="btn" class="btn btn-primary" onclick="switchVideo(1);">Baby Me</button>
+       <button type="btn" class="btn btn-primary" onclick="switchVideo(2);">Surfing Baby</button>
+      </div>
 
 
     </main>
