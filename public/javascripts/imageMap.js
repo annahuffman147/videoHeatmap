@@ -5,10 +5,10 @@ var imageCoordinates = [{
     href: "",
     title: "trailHead",
     position: 'absolute',
-    left: '12.19 %' ,
-    top: '38.37 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '12.19%' ,
+    top: '38.37%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -16,10 +16,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '15.52 %' ,
-    top: '37.26 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '15.52%' ,
+    top: '37.26%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -27,10 +27,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '13.54 %' ,
-    top: '37.81 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '13.54%' ,
+    top: '37.81%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -38,10 +38,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '16.98 %' ,
-    top: '36.89 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '16.98%' ,
+    top: '36.89%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -49,10 +49,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '18.75 %' ,
-    top: '36.33 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '18.75%' ,
+    top: '36.33%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -60,10 +60,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '20.31 %' ,
-    top: '35.96 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '20.31%' ,
+    top: '35.96%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -71,10 +71,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '21.98 %' ,
-    top: '35.22 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '21.98%' ,
+    top: '35.22%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -82,10 +82,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '23.54 %' ,
-    top: '34.3 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '23.54%' ,
+    top: '34.3%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -93,10 +93,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '25 %' ,
-    top: '33.74 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '25%' ,
+    top: '33.74%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -104,10 +104,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '26.88 %' ,
-    top: '32.63 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '26.88%' ,
+    top: '32.63%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -115,10 +115,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '28.75 %' ,
-    top: '32.07 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '28.75%' ,
+    top: '32.07%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -126,10 +126,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '30.42 %' ,
-    top: '30.96 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '30.42%' ,
+    top: '30.96%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -137,10 +137,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '31.35 %' ,
-    top: '30.22 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '31.35%' ,
+    top: '30.22%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -148,10 +148,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '32.6 %' ,
-    top: '28.56 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '32.6%' ,
+    top: '28.56%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -159,10 +159,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '34.06 %' ,
-    top: '29.11 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '34.06%' ,
+    top: '29.11%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -170,10 +170,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '35.63 %' ,
-    top: '28 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '35.63%' ,
+    top: '28%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -181,10 +181,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '37.29 %' ,
-    top: '27.26 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '37.29%' ,
+    top: '27.26%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -192,10 +192,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '39.17 %' ,
-    top: '26.15 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '39.17%' ,
+    top: '26.15%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -203,10 +203,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '40.63 %' ,
-    top: '24.48 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '40.63%' ,
+    top: '24.48%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -214,10 +214,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '42.08 %' ,
-    top: '22.63 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '42.08%' ,
+    top: '22.63%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -225,10 +225,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '43.44 %' ,
-    top: '21.52 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '43.44%' ,
+    top: '21.52%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -236,10 +236,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '45 %' ,
-    top: '20.22 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '45%' ,
+    top: '20.22%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -247,10 +247,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '46.35 %' ,
-    top: '19.11 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '46.35%' ,
+    top: '19.11%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -258,10 +258,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '47.4 %' ,
-    top: '18 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '47.4%' ,
+    top: '18%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -269,10 +269,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '48.02 %' ,
-    top: '16.52 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '48.02%' ,
+    top: '16.52%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -280,10 +280,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '48.96 %' ,
-    top: '15.96 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '48.96%' ,
+    top: '15.96%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -291,10 +291,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '50 %' ,
-    top: '17.07 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '50%' ,
+    top: '17.07%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -302,10 +302,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '51.04 %' ,
-    top: '16.15 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '51.04%' ,
+    top: '16.15%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -313,10 +313,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '51.88 %' ,
-    top: '15.22 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '51.88%' ,
+    top: '15.22%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -324,10 +324,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '52.4 %' ,
-    top: '13.93 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '52.4%' ,
+    top: '13.93%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -335,10 +335,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '53.02 %' ,
-    top: '12.44 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '53.02%' ,
+    top: '12.44%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -346,10 +346,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '53.75 %' ,
-    top: '11.89 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '53.75%' ,
+    top: '11.89%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -357,10 +357,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '54.9 %' ,
-    top: '11.7 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '54.9%' ,
+    top: '11.7%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -368,10 +368,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '55.83 %' ,
-    top: '10.96 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '55.83%' ,
+    top: '10.96%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -379,10 +379,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '56.56 %' ,
-    top: '9.67 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '56.56%' ,
+    top: '9.67%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -390,10 +390,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '57.08 %' ,
-    top: '8.37 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '57.08%' ,
+    top: '8.37%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -401,10 +401,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '58.33 %' ,
-    top: '7.81 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '58.33%' ,
+    top: '7.81%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -412,10 +412,10 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '59.17 %' ,
-    top: '6.89 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '59.17%' ,
+    top: '6.89%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }, {
@@ -423,10 +423,26 @@ var imageCoordinates = [{
     href: "",
     title: "Summit",
     position: 'absolute',
-    left: '60.1 %' ,
-    top: '6.7 %' ,
-    width: '5 %' ,
-    height: '5 %' ,
+    left: '60.1%' ,
+    top: '6.7%' ,
+    width: '5%' ,
+    height: '5%' ,
     zindex: 2,
     timeStamp: ""
 }]
+
+function moveBall() {
+
+}
+
+function hikingTrail() {
+  console.log(imageCoordinates.length);
+  var lines = [];
+  for (var i = 0; i < imageCoordinates.length - 1; i ++) {
+    var line = '<line left=' + imageCoordinates[i].left + ' top=' + imageCoordinates[i].top + ' left2=' + imageCoordinates[i+1].left + ' top2=' + imageCoordinates[i + 1].top + '/>\n'
+    lines.push(line)
+  }
+  console.log(lines.join(''));
+  return lines.join('')
+}
+hikingTrail()

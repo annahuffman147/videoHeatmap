@@ -63,16 +63,6 @@ main {
   z-index: 0;
 }
 
-/*.video  {
-  display: inline-block;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  z-index: 0;
-  min-width: 50%;
-  height: auto;
-}*/
-
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
@@ -89,6 +79,27 @@ main {
 	height: 100%;
   z-index: 25;
 }
+
+/*#ball {
+  -webkit-animation-name: climb;
+
+}*/
+#svg  {
+  position: absolute;
+  top:6.5%;
+  bottom: 39%;
+  left: 11.5%;
+  right:60.5%;
+
+}
+g {
+  z-index: 5000;
+}
+/*
+@-webkit-keyframes climb  {
+  from {}
+  to {}
+}*/
 
 .ball {
   width: 100px;
