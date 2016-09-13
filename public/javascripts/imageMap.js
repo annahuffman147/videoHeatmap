@@ -11,7 +11,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 2,
     href: "",
     title: "",
@@ -22,7 +22,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 3,
     href: "",
     title: "",
@@ -33,7 +33,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 4,
     href: "",
     title: "",
@@ -44,7 +44,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 5,
     href: "",
     title: "",
@@ -55,7 +55,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 6,
     href: "",
     title: "",
@@ -66,7 +66,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 7,
     href: "",
     title: "",
@@ -77,7 +77,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 8,
     href: "",
     title: "",
@@ -88,7 +88,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 9,
     href: "",
     title: "",
@@ -99,7 +99,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 10,
     href: "",
     title: "",
@@ -110,7 +110,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 11,
     href: "",
     title: "",
@@ -121,7 +121,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 12,
     href: "",
     title: "",
@@ -132,7 +132,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 13,
     href: "",
     title: "",
@@ -143,7 +143,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 14,
     href: "",
     title: "",
@@ -154,7 +154,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 15,
     href: "",
     title: "",
@@ -165,7 +165,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 16,
     href: "",
     title: "",
@@ -176,7 +176,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 17,
     href: "",
     title: "",
@@ -187,7 +187,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 18,
     href: "",
     title: "",
@@ -198,7 +198,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 19,
     href: "",
     title: "",
@@ -209,7 +209,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 20,
     href: "",
     title: "",
@@ -220,7 +220,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 21,
     href: "",
     title: "",
@@ -231,7 +231,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 22,
     href: "",
     title: "",
@@ -242,7 +242,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 23,
     href: "",
     title: "",
@@ -253,7 +253,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 24,
     href: "",
     title: "",
@@ -264,7 +264,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 25,
     href: "",
     title: "",
@@ -275,7 +275,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 26,
     href: "",
     title: "",
@@ -286,7 +286,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 27,
     href: "",
     title: "",
@@ -297,7 +297,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 28,
     href: "",
     title: "",
@@ -308,7 +308,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 29,
     href: "",
     title: "",
@@ -319,7 +319,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 30,
     href: "",
     title: "",
@@ -330,7 +330,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 31,
     href: "",
     title: "",
@@ -341,7 +341,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 32,
     href: "",
     title: "",
@@ -352,7 +352,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 33,
     href: "",
     title: "",
@@ -363,7 +363,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 34,
     href: "",
     title: "",
@@ -374,7 +374,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 35,
     href: "",
     title: "",
@@ -385,7 +385,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 36,
     href: "",
     title: "",
@@ -396,7 +396,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 37,
     href: "",
     title: "",
@@ -407,7 +407,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 38,
     href: "",
     title: "",
@@ -418,7 +418,7 @@ var imageCoordinates = [{
     height: '5%' ,
     zindex: 2,
     timeStamp: ""
-}, {
+  }, {
     id: 39,
     href: "",
     title: "Summit",
@@ -432,17 +432,17 @@ var imageCoordinates = [{
 }]
 
 function moveBall() {
-
+  requestAnimationFrame(moveBall)
+  var myVideo = document.getElementById("video");
+  var videoDuration = myVideo.duration;
+  var currentTime = myVideo.currentTime;
+  var ball = document.querySelector('#ballTurtleRabbit')
+  var currentIndex = Math.floor(imageCoordinates.length * (currentTime/videoDuration));
+  console.log(currentIndex);
+  console.log(currentTime/videoDuration);
+  console.log(imageCoordinates[currentIndex]);
+  ball.style.left = imageCoordinates[currentIndex].left
+  ball.style.top = imageCoordinates[currentIndex].top
+  console.log(ball.style.left);
 }
-
-function hikingTrail() {
-  console.log(imageCoordinates.length);
-  var lines = [];
-  for (var i = 0; i < imageCoordinates.length - 1; i ++) {
-    var line = '<line left=' + imageCoordinates[i].left + ' top=' + imageCoordinates[i].top + ' left2=' + imageCoordinates[i+1].left + ' top2=' + imageCoordinates[i + 1].top + '/>\n'
-    lines.push(line)
-  }
-  console.log(lines.join(''));
-  return lines.join('')
-}
-hikingTrail()
+requestAnimationFrame(moveBall)

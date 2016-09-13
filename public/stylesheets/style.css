@@ -107,12 +107,13 @@ main {
 }*/
 
 .ball {
-  width: 100px;
-  height: 100px;
+  width: 25px;
+  height: 25px;
   position: absolute;
   z-index: 100;
   left: 12.19%;
   top: 38.37%;
+  transition: left ease 1s, top ease 1s;
 }
 
 #buttons  {
