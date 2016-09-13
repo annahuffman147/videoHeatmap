@@ -92,8 +92,13 @@ main {
   right:60.5%;
 
 }
-g {
+#canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
   z-index: 5000;
+  padding-right: 30;
+  padding-left: 30;
 }
 /*
 @-webkit-keyframes climb  {
