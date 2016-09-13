@@ -1,104 +1,101 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
     <title>Video Heatmap - Reaching Summit</title>
 
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'>
     <!-- Custom css -->
-    <link rel="stylesheet" href="stylesheets/style.css">
+    <link rel='stylesheet' href='stylesheets/style.css'>
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <!-- favicon -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
   </head>
 
-  <body scroll="yes" style="overflow-x: hidden">
+  <body scroll='yes' style='overflow-x: hidden'>
     <header>
       <h1>Video Heatmap</h1>
     </header>
-    <main class="col-lg-12 container">
+    <main class='col-lg-12 container'>
 
       <div class='container'>
-        <img class="col-lg-12" id='mountHood' src="images/mountHoodResponsive.jpg" alt="" />
+        <img class='col-lg-12' id='mountHood' src='images/mountHoodResponsive.jpg' alt='' />
         <div>
-          <img class="ball fa fa-spin fa-fw" src="images/ball.png" alt="You are here!" id='ballTurtleRabbit'/>
+          <img class='ball fa fa-fw' src='images/ball.png' alt='You are here!' id='ballTurtleRabbit'/>
         </div>
-        <div class="videoContainer">
-          <div class="videoWrapper">
-            <video id='video' width="560" height="315" autoplay>
-              <source id='source' src="videos/rollerbabiesEvian.mp4">
+        <div class='videoContainer'>
+          <div class='videoWrapper'>
+            <video id='video' width='560' height='315'>
+              <source id='source' src='videos/rollerbabiesEvian.mp4'>
               Your browser does not support HTML5 video.
             </video>
-            <!-- <iframe id='video1' class='video' width="560" height="315" src="https://www.youtube.com/embed/XQcVllWpwGs?controls=0" frameborder="5"></iframe> -->
           </div>
         </div>
-        <div class="imageCoordinates">
-          <a href="" title="trailHead" style="position: absolute; left: 12.19%; top: 38.37%; width: 18.75%;  height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 15.52%; top: 37.26%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 13.54%; top: 37.81%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 16.98%; top: 36.89%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 18.75%; top: 36.33%;  width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 20.31%; top: 35.96%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 21.98%; top: 35.22%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 23.54%; top: 34.3%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 25%; top: 33.74%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 26.88%; top: 32.63%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 28.75%; top: 32.07%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 30.42%; top: 30.96%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 31.35%; top: 30.22%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 32.6%; top: 28.56%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 34.06%; top: 29.11%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 35.63%; top: 28%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 37.29%; top: 27.26%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 39.17%; top: 26.15%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 40.63%; top: 24.48%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 42.08%; top: 22.63%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 43.44%; top: 21.52%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 45%; top: 20.22%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 46.35%; top: 19.11%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 47.4%; top: 18%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 48.02%; top: 16.52%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 48.96%; top: 15.96%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 50%; top: 17.07%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 51.04%; top: 16.15%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 51.88%; top: 15.22%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 52.4%; top: 13.93%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 53.02%; top: 12.44%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 53.75%; top: 11.89%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 54.9%; top: 11.7%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 55.83%; top: 10.96%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 56.56%; top: 9.67%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 57.08%; top: 8.37%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 58.33%; top: 7.81%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="" style="position: absolute; left: 59.17%; top: 6.89%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-          <a href="" title="Summit" style="position: absolute; left: 60.1%; top: 6.7%; width: 18.75%; height: 33.33%; z-index: 2;"></a>
-        </div>
+        <!-- <div class='imageCoordinates'>
+          <a href='' title='trailHead' style='position: absolute; left: 12.19%; top: 38.37%; width: 18.75%;  height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 15.52%; top: 37.26%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 13.54%; top: 37.81%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 16.98%; top: 36.89%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 18.75%; top: 36.33%;  width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 20.31%; top: 35.96%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 21.98%; top: 35.22%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 23.54%; top: 34.3%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 25%; top: 33.74%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 26.88%; top: 32.63%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 28.75%; top: 32.07%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 30.42%; top: 30.96%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 31.35%; top: 30.22%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 32.6%; top: 28.56%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 34.06%; top: 29.11%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 35.63%; top: 28%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 37.29%; top: 27.26%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 39.17%; top: 26.15%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 40.63%; top: 24.48%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 42.08%; top: 22.63%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 43.44%; top: 21.52%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 45%; top: 20.22%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 46.35%; top: 19.11%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 47.4%; top: 18%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 48.02%; top: 16.52%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 48.96%; top: 15.96%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 50%; top: 17.07%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 51.04%; top: 16.15%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 51.88%; top: 15.22%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 52.4%; top: 13.93%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 53.02%; top: 12.44%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 53.75%; top: 11.89%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 54.9%; top: 11.7%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 55.83%; top: 10.96%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 56.56%; top: 9.67%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 57.08%; top: 8.37%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 58.33%; top: 7.81%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='' style='position: absolute; left: 59.17%; top: 6.89%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+          <a href='' title='Summit' style='position: absolute; left: 60.1%; top: 6.7%; width: 18.75%; height: 33.33%; z-index: 2;'></a>
+        </div> -->
       </div>
 
-      <div class="activities">
+      <div class='activities'>
         <section id='buttons'>
-         <button type="btn" class="btn btn-success" onclick="playVideo()">Play Video</button>
-         <button type="btn" class="btn btn-success" onclick="pauseVideo()">Pause Video</button><br>
-         <button type="btn" class="btn btn-primary" onclick="advanceVideo()">Advance</button>
-         <button type="btn" class="btn btn-primary" onclick="rewindVideo()">Rewind</button>
-         <button type="btn" class="btn btn-primary" onclick="fasterVideo()">Faster</button>
-         <button type="btn" class="btn btn-primary" onclick="slowerVideo()">Slower</button>
-         <button type="btn" class="btn btn-primary" onclick="louderVideo()">Volume +</button>
-         <button type="btn" class="btn btn-primary" onclick="quieterVideo()">Volume -</button><br>
-         <button type="btn" class="btn btn-info" onclick="loadRollerBabies()">Roller Babies</button>
-         <button type="btn" class="btn btn-info" onclick="loadBabyMe()">Baby Me</button>
-         <button type="btn" class="btn btn-info" onclick="loadSurfingBaby()">Surfing Baby</button>
+         <button type='btn' class='btn btn-success' onclick='playVideo()'>Play Video</button>
+         <button type='btn' class='btn btn-success' onclick='pauseVideo()'>Pause Video</button><br>
+         <button type='btn' class='btn btn-primary' onclick='advanceVideo()'>Advance</button>
+         <button type='btn' class='btn btn-primary' onclick='rewindVideo()'>Rewind</button>
+         <button type='btn' class='btn btn-primary' onclick='fasterVideo()'>Faster</button>
+         <button type='btn' class='btn btn-primary' onclick='slowerVideo()'>Slower</button>
+         <button type='btn' class='btn btn-primary' onclick='louderVideo()'>Volume +</button>
+         <button type='btn' class='btn btn-primary' onclick='quieterVideo()'>Volume -</button><br>
+         <button type='btn' class='btn btn-info' onclick='loadRollerBabies()'>Roller Babies</button>
+         <button type='btn' class='btn btn-info' onclick='loadBabyMe()'>Baby Me</button>
+         <button type='btn' class='btn btn-info' onclick='loadSurfingBaby()'>Surfing Baby</button>
         </section>
-        <aside id="activityLog">
-          <p id="log">
+        <aside id='activityLog'>
+          <p id='log'>
           </p>
         </aside>
       </div>
@@ -108,10 +105,10 @@
     </footer>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js'></script>
 
-    <script src="javascripts/videoData.js"></script>
+    <script src='javascripts/videoData.js'></script>
   </body>
 </html>
