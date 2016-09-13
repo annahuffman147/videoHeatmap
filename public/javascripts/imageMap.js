@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 var imageCoordinates = [{
     id: 1,
@@ -16,7 +16,7 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '15.52%' ,
+    left: '13.52%' ,
     top: '37.26%' ,
     width: '5%' ,
     height: '5%' ,
@@ -27,7 +27,7 @@ var imageCoordinates = [{
     href: "",
     title: "",
     position: 'absolute',
-    left: '13.54%' ,
+    left: '14.54%' ,
     top: '37.81%' ,
     width: '5%' ,
     height: '5%' ,
