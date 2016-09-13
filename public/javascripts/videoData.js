@@ -59,7 +59,7 @@ function slowerVideo() {
   var time = myVideo.currentTime.toFixed(2)
   var rate = myVideo.playbackRate.toFixed(1)
   var newRate = (myVideo.playbackRate -= 0.1).toFixed(1)
-  var slowerLog = 'Time: ' + time + '   increase rate from ' + rate + ' to ' + (newRate) + '<br>'
+  var slowerLog = 'Time: ' + time + '   decrease rate from ' + rate + ' to ' + (newRate) + '<br>'
   activityLogArray.unshift(slowerLog);
   activityLog.innerHTML+= slowerLog;
   if (newRate > 1.0) {
